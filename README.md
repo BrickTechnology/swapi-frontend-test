@@ -24,8 +24,8 @@ There are three features we want you to implement:
 
 ## Delivery
 
-1. Upload your project to github (public repo, without the node_modules directory)
+1. Upload your project to github
 
-2. Host the project on the internet (Github pages, Netlify, Heroku, Vercel etc.)
+2. Host the project on the internet
 
 3. Send the links (repo + hosted instance) directly to emil@brickapp.se
