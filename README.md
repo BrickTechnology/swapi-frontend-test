@@ -28,4 +28,4 @@ There are three features we want you to implement:
 
 2. Host the project on the internet
 
-3. Send the links (repo + hosted instance) directly to emil@brickapp.se
+3. Send the links (repo + hosted instance) directly to jimmy@brickapp.se
